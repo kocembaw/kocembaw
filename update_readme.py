@@ -2,13 +2,13 @@ import os
 import re
 import requests
 
-USERNAME = "Operative88"         
+USERNAME = "kocembaw"         
 README_PATH = "README.md"
 START = "<!--START_SECTION:activity-->"
 END = "<!--END_SECTION:activity-->"
 
 def fetch_recent_repos():
-    url = f"https://api.github.com/users/Operative88/repos"
+    url = f"https://api.github.com/users/kocembaw/repos"
     headers = {"Accept": "application/vnd.github+json"}
     token = os.environ.get("GH_TOKEN")
     if token:
