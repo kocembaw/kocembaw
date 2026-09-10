@@ -12,9 +12,9 @@
 #### Latest activity
 
 <!--START_SECTION:activity-->
-- [neetcode-submissions](https://github.com/Operative88/neetcode-submissions) <<< My NeetCode.io problem submissions
-- [Operative88](https://github.com/Operative88/Operative88) <<< an automated GitHub profile README.md that displays my latest activity, updated via GitHub Actions
-- [ci-cd-final-project](https://github.com/Operative88/ci-cd-final-project) <<< final project for the IBM CI/CD course with CI Github Actions and CD Tekton pipelines on an Openshift Kubernetes cluster
-- [wtecc-CICD_PracticeCode](https://github.com/Operative88/wtecc-CICD_PracticeCode) <<< CI pipeline with a flake8 linter and unit tests, built with GitHub Actions as part of the IBM Continuous Integration and Continuous Delivery course
-- [Python-Distilled](https://github.com/Operative88/Python-Distilled) <<< Repository based on the book "Python Distilled" by David Beazley
+- [neetcode-submissions](https://github.com/kocembaw/neetcode-submissions) <<< My NeetCode.io problem submissions
+- [kocembaw](https://github.com/kocembaw/kocembaw) <<< an automated GitHub profile README.md that displays my latest activity, updated via GitHub Actions
+- [aws-lambda](https://github.com/kocembaw/aws-lambda) <<< brak opisu
+- [TestAgent](https://github.com/kocembaw/TestAgent) <<< brak opisu
+- [ci-cd-final-project](https://github.com/kocembaw/ci-cd-final-project) <<< final project for the IBM CI/CD course with CI Github Actions and CD Tekton pipelines on an Openshift Kubernetes cluster
 <!--END_SECTION:activity-->
