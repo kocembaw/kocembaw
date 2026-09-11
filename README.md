@@ -12,9 +12,9 @@
 #### Latest activity
 
 <!--START_SECTION:activity-->
-- [neetcode-submissions](https://github.com/kocembaw/neetcode-submissions) <<< My NeetCode.io problem submissions
+- [platform-vns](https://github.com/kocembaw/platform-vns) <<< Research platform with containerizing a small service, orchestrating it on Kubernetes, provisioning it on AWS using Terraform, and then delivering it via a Jenkins pipeline
 - [kocembaw](https://github.com/kocembaw/kocembaw) <<< an automated GitHub profile README.md that displays my latest activity, updated via GitHub Actions
+- [neetcode-submissions](https://github.com/kocembaw/neetcode-submissions) <<< My NeetCode.io problem submissions
 - [aws-lambda](https://github.com/kocembaw/aws-lambda) <<< brak opisu
 - [TestAgent](https://github.com/kocembaw/TestAgent) <<< brak opisu
-- [ci-cd-final-project](https://github.com/kocembaw/ci-cd-final-project) <<< final project for the IBM CI/CD course with CI Github Actions and CD Tekton pipelines on an Openshift Kubernetes cluster
 <!--END_SECTION:activity-->
