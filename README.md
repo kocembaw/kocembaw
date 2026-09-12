@@ -1,4 +1,4 @@
-The three most life-changing things, in order? Exercise, exercise and exercise
+The three most life-changing things, in order? Exercise, exercise and exercise.
 
 
 
